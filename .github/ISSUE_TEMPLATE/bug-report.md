@@ -2,7 +2,7 @@
 name: Bug report
 about: Report a broken feature
 title: 'fix: <your-title-goes-here>'
-labels: 'type: fix, flag: needs-triage'
+labels: 'type: fix, status: needs triage'
 assignees: ''
 
 ---
