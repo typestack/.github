@@ -1,7 +1,7 @@
 ---
 name: Question
 about: Get help with the usage of the library.
-title: ''
+title: 'question: <your-title-goes-here>'
 labels: 'type: question'
 assignees: ''
 
