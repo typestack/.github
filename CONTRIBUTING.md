@@ -181,6 +181,9 @@ is added the label should be removed from the issue or PR.
 The issue or PR __requires further discussion before implementation__ as it doesn't meet technical or some other
 requirement.
 
+`flag: accepting PR`
+We are accepting PR to resolve given issue.
+
 `flag: BREAKING CHANGE`  
 The issue or PR contains a breaking change that requires a major version bump.
 
